@@ -2,6 +2,7 @@
   
 # start using VPN:
 go https://account.protonvpn.com/signup/account and creat free trial acc
+
 get ur OVPN PASS&USER
 LINUX:
 open terminal:
