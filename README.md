@@ -1,5 +1,5 @@
 # start using VPN:
-go https://account.protonvpn.com/signup/account and creat free trial acc
+go https://account.protonvpn.com/signup/account and create free trial acc
 
 get ur OVPN PASS&USER
 
