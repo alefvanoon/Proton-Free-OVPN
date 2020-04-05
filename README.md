@@ -11,6 +11,6 @@ sudo apt-get openvpn
 
 git clone https://github.com/c00degrammer/Proton-Free-ovpn-File.git
 
-cd Proton-Free-ovpn-File.git
+cd Proton-Free-ovpn-File
 
 sudo openvpn --config us-ca-102.protonvpn.com.udp.ovpn
