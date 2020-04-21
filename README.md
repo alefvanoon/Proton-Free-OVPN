@@ -7,7 +7,7 @@ LINUX:
 
 open terminal:
 
-sudo apt-get openvpn
+sudo apt-get install openvpn
 
 git clone https://github.com/c00degrammer/Proton-Free-ovpn-File.git
 
